@@ -25,7 +25,7 @@ jobs:
         uses: docker://rogerwillian/latex
         with:
           entrypoint: latexmk
-          args: -pdf slides.tex -output-directory=/github/workspace
+          args: -pdf prova.tex -output-directory=/github/workspace
 
       # Sobe o os arquivos para release
       - uses: actions/upload-artifact@v3
