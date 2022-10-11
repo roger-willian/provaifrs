@@ -1,4 +1,4 @@
-[![principal](https://github.com/roger-willian/beamerthemeifrs/actions/workflows/principal.yml/badge.svg)](https://github.com/roger-willian/beamerthemeifrs/actions/workflows/principal.yml)
+[![principal](https://github.com/roger-willian/provaifrs/actions/workflows/principal.yml/badge.svg)](https://github.com/roger-willian/beamerthemeifrs/actions/workflows/principal.yml)
 
 # Modelo de prova para o IFRS
 
