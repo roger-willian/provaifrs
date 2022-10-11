@@ -1,4 +1,4 @@
-[![principal](https://github.com/roger-willian/provaifrs/actions/workflows/principal.yml/badge.svg)](https://github.com/roger-willian/beamerthemeifrs/actions/workflows/principal.yml)
+[![principal](https://github.com/roger-willian/provaifrs/actions/workflows/principal.yml/badge.svg)](https://github.com/roger-willian/provaifrs/actions/workflows/principal.yml)
 
 # Modelo de prova para o IFRS
 
@@ -35,7 +35,7 @@ São sugeridas duas maneiras de produzir os slides:
 
 Aqui é assumido que o TexLive e o latexmk já estão instalados na máquina.
 Se ainda não instalou, veja a seção [Dependências](#dependencias)
-Baixe o arquivo compactado com a release desejada [aqui](https://github.com/roger-willian/beamerthemeifrs/releases).
+Baixe o arquivo compactado com a release desejada [aqui](https://github.com/roger-willian/provaifrs/releases).
 Descompacte o arquivo para um diretório próprio.
 Entre no diretório e, se , para gerar o PDF use o comando:
 
@@ -45,7 +45,7 @@ Entre no diretório e, se , para gerar o PDF use o comando:
 
 O [Overleaf](https://www.overleaf.com) é um serviço de edição de LaTeX e geração de PDF muito usado no meio acadêmico.
 
-Para copiar os arquivos necessários para um novo projeto no Overleaf e já sair editando esse projeto, basta clicar [aqui](https://www.overleaf.com/docs?snip_uri=https://github.com/roger-willian/beamerthemeifrs/releases/download/v1.0.1/release.zip).
+Para copiar os arquivos necessários para um novo projeto no Overleaf e já sair editando esse projeto, basta clicar [aqui](https://www.overleaf.com/docs?snip_uri=https://github.com/roger-willian/provaifrs/releases/download/v1.0.0/release.zip).
 
 # <a name="dependencias"></a>Dependências
 
